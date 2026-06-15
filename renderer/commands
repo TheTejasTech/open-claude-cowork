@@ -1,0 +1,2 @@
+if you dont get any op after running npm start then try "npm install" or just "npm insta" then dependancies and libraries gonna intall locally
+then again try with "npm start" or "npm run start" its gona be running locally
